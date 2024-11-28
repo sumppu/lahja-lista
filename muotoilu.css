@@ -1,0 +1,67 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+
+body {
+    font-family: "Irish Grover", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background: url(kivatausta.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    color: rgb(188, 207, 223);
+}
+
+h1 {
+    font-family: "Irish Grover", sans-serif;
+    font-weight: 400;
+    font-size: 100px;
+    font-style: normal;
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: auto;
+    margin-left: 45px;
+    margin-right: auto;
+    text-shadow: 2px 2px 0px rgb(77, 33, 97), -2px -2px 0px rgb(228, 166, 243);
+}
+
+h2 {
+    font-family: "Irish Grover", sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    font-style: normal;
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: auto;
+    text-shadow: 2px 2px 0px rgb(77, 33, 97), -2px -2px 0px rgb(228, 166, 243);
+}
+
+h3 {
+    font-family: "Irish Grover", sans-serif;
+    font-weight: 400;
+    font-size: 120px;
+    font-style: normal;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: auto;
+    margin-left: 45px;
+    text-shadow: 2px 2px 0px rgb(77, 33, 97), -2px -2px 0px rgb(228, 166, 243);
+}
+
+p, li {
+    font-family: "Irish Grover", sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    font-style: normal;
+    text-align: left;
+    margin-top: 45px;
+    margin-bottom: auto;
+    margin-left: 50px;
+    text-shadow: 2px 2px 0px rgb(77, 33, 97), -2px -2px 0px rgb(228, 166, 243);
+}
+
+.kuva {
+    margin-top: 30px;
+    margin-bottom: 45px;
+    margin-left: 50px;
+}
