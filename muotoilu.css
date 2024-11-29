@@ -45,6 +45,7 @@ h3 {
     margin-top: 100px;
     margin-bottom: auto;
     margin-left: 45px;
+    margin-right: auto;
     text-shadow: 2px 2px 0px rgb(77, 33, 97), -2px -2px 0px rgb(228, 166, 243);
 }
 
@@ -57,6 +58,7 @@ p, li {
     margin-top: 45px;
     margin-bottom: auto;
     margin-left: 50px;
+    margin-right: auto;
     text-shadow: 2px 2px 0px rgb(77, 33, 97), -2px -2px 0px rgb(228, 166, 243);
 }
 
@@ -64,4 +66,5 @@ p, li {
     margin-top: 30px;
     margin-bottom: 45px;
     margin-left: 50px;
+    margin-right: auto;
 }
